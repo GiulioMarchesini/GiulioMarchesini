@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Giulio
 
-I'm a software developer from Italy. I'm currently working for Biotec Italia as a software engineer.
+I'm a software developer from Italy. I'm working for Biotec Italia as a software engineer.
 I have a degree in Meccatronics Engineering at the University of Padua.
 
 - 🔭 I’m currently working on a medical device that have different laser handpieces for doing clinical treatments. I'm working on embedded development (for the electronic boards) and desktop application (for the touch display).
