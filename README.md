@@ -7,6 +7,7 @@ I have a degree in Meccatronics Engineering at the University of Padua.
 - 🌱 I’m currently learning Python
 - ❤️ I love Typescrpt
 - 📖 I'will study Rust and Svelte
+- 🛠️ I made a blog for my girlfriend https://lievoremicol-blog.vercel.app/ and I hope to update it sooner or later 😅
 
 ## What I can make
 
