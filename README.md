@@ -10,7 +10,7 @@ I have a degree in Meccatronics Engineering at the University of Padua.
 
 ## What I can make
 
-- Embedded in C/C++ ( usualy Atmel and Renesas)
+- Embedded in C/C++ preferely Arm Cortex-M33
 - Desktop app in C++ or Javascript (thanks to Electron)
 - Web app (Typescript, React, Next.js, Node.js, MongoDB, Express)
 - Mobile app (React Native)
