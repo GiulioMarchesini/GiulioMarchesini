@@ -15,3 +15,8 @@ I have a degree in Meccatronics Engineering at the University of Padua.
 - Desktop app in C++, Python or Javascript (thanks to Electron)
 - Web app (Typescript, React, Next.js, Node.js, MongoDB, Express)
 - Mobile app (React Native)
+
+<!-- add top languages -->
+## My pubblic stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioMarchesini&langs_count=10&count-private=true&theme=dark)
